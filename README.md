@@ -3,7 +3,7 @@
 
 A frontend developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
-- 🔭 I’m currently working on React projects
+- 🔭 I’m currently working on Frontend projects
 - 👯 I’m looking to collaborate on Frontend Projects
 - 💬 Ask me about my Dreams 
 - 📫 How to reach me: weseydanny@gmail.com
