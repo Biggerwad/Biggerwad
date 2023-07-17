@@ -1,14 +1,14 @@
 
-### Hi there, I'm Daniel 👋
+### Hi there, I'm Daniel Wesey👋
 
-A frontend developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+A software developer and I love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
-- 🔭 I’m currently working on Frontend projects
-- 👯 I’m looking to collaborate on Frontend Projects
+- 🔭 I’m currently working on web-applications
+- 👯 I’m looking to collaborate on backend Projects
 - 💬 Ask me about my Dreams 
 - 📫 How to reach me: weseydanny@gmail.com
-- 😄 Pronouns: He!
-- ⚡ Fun fact: !I code && read everyday
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: !code && read everyday
 
 [![Linkedin Badge](https://img.shields.io/badge/-danielWesey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-wesey/)](https://www.linkedin.com/in/daniel-wesey/)
 [![twitterBadge](https://img.shields.io/badge/daniel_Wesey-c14438?style=flat-square&logo=twitter&logoColor=white&link=https://daniel_Wesey.com/)](https://twitter.com/daniel_wesey/)
