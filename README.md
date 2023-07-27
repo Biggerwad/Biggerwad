@@ -22,11 +22,9 @@ A software developer and I love writing clean and maintainable code. Find out mo
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![TAILWINDCSS](https://img.shields.io/badge/-TAILWINDCSS-black?style=flat-square&logo=tailwindcss)
+![NODEJS](https://img.shields.io/badge/-NODEJS-black?style=flat-square&logo=nodejs)
+![EXPRESSJS](https://img.shields.io/badge/-EXPRESSJS-black?style=flat-square&logo=expressjs)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-182717?style=flat-square&logo=github)
-
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Biggerwad&show_icons=true&theme=radical"  />
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biggerwad"  />
