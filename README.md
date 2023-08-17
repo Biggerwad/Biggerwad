@@ -4,7 +4,7 @@
 A software developer and I love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
 - 🔭 I’m currently working on web-applications
-- 👯 I’m looking to collaborate on backend Projects
+- 👯 I’m looking to collaborate on fullstack Projects
 - 💬 Ask me about my Dreams 
 - 📫 How to reach me: weseydanny@gmail.com
 - 😄 Pronouns: He/Him
