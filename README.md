@@ -4,11 +4,10 @@
 A software developer and I love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
 - 🔭 I’m currently working on web-applications
-- 👯 I’m looking to collaborate on fullstack Projects
-- 💬 Ask me about my Dreams 
+- 💬 working towards my big Dreams 
 - 📫 How to reach me: weseydanny@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: !code && read everyday
+- 🙂 Pronouns: He/Him
+- ⚡ Fun fact: !code && study everyday
 
 [![Linkedin Badge](https://img.shields.io/badge/-danielWesey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-wesey/)](https://www.linkedin.com/in/daniel-wesey/)
 [![twitterBadge](https://img.shields.io/badge/daniel_Wesey-c14438?style=flat-square&logo=twitter&logoColor=white&link=https://daniel_Wesey.com/)](https://twitter.com/daniel_wesey/)
@@ -23,8 +22,7 @@ A software developer and I love writing clean and maintainable code. Find out mo
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![NODEJS](https://img.shields.io/badge/-NODEJS-black?style=flat-square&logo=nodejs)
+![NODEJS](https://img.shields.io/badge/-PYTHON-green?style=flat-square&logo=python)
 ![EXPRESSJS](https://img.shields.io/badge/-EXPRESSJS-black?style=flat-square&logo=expressjs)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-182717?style=flat-square&logo=github)
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biggerwad"  />
