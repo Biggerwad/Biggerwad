@@ -1,13 +1,13 @@
 
 ### Hi there, I'm Daniel Wesey👋
 
-A software Engineer and I love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+I love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
-- 🔭 I’m currently working on web-applications
-- 💬 working towards my big Dreams 
+- 🔭 I’m working on exciting web-applications
+- 💬 working towards some big Dreams 
 - 📫 How to reach me: weseydanny@gmail.com
 - 🙂 Pronouns: He/Him
-- ⚡ Fun fact: !code && study everyday
+- ⚡ Fun fact: code && study everyday
 
 [![Linkedin Badge](https://img.shields.io/badge/-danielWesey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-wesey/)](https://www.linkedin.com/in/daniel-wesey/)
 [![twitterBadge](https://img.shields.io/badge/daniel_Wesey-c14438?style=flat-square&logo=twitter&logoColor=white&link=https://daniel_Wesey.com/)](https://twitter.com/daniel_wesey/)
