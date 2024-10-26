@@ -1,12 +1,12 @@
 
 ### Hi there, I'm Daniel Wesey👋
 
-I love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+I write clean and maintainable code. Find out more about me & feel free to connect me here:
 
-- 🔭 I’m working on exciting web-applications
-- 💬 working towards some big Dreams 
+- 🔭 I’m working on enterprise-level applications at the moment
+- 💬 Solving real problems with technology
 - 📫 How to reach me: weseydanny@gmail.com
-- 🙂 Pronouns: He/Him
+- 👨‍🦰 Pronouns: He/Him
 - ⚡ Fun fact: code && study everyday
 
 [![Linkedin Badge](https://img.shields.io/badge/-danielWesey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-wesey/)](https://www.linkedin.com/in/daniel-wesey/)
